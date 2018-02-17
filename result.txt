@@ -1,0 +1,309 @@
+started parameters searchings.....
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 50, "emb_size_category": 10, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 0.00015, "lr": 0.003, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 6, "fc_size_1": 128}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.472683489134
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 75, "emb_size_category": 8, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.0002, "lr": 0.003, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 6, "fc_size_1": 32}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.474982382053
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 40, "emb_size_category": 10, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0, "lr": 0.002, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 55, "emb_size_brand": 12, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.502289077044
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 35, "emb_size_category": 6, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0.00015, "lr": 0.003, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 20, "emb_size_brand": 12, "fc_size_1": 32}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.480110176332
+
+{"loss": "mse", "dropout_rate": 0.6, "emb_size_text_desc": 75, "emb_size_category": 4, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.0001, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 6, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.473325458003
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 45, "emb_size_category": 4, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.0002, "lr": 0.003, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.470010465722
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 40, "emb_size_category": 12, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 0.00015, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 30, "emb_size_brand": 10, "fc_size_1": 128}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.476473544781
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 75, "emb_size_category": 4, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 0.0002, "lr": 0.002, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 6, "fc_size_1": 64}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.463384627864
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 20, "emb_size_category": 12, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.0001, "lr": 0.003, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 8, "fc_size_1": 64}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.464797421376
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 45, "emb_size_category": 4, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 5e-05, "lr": 0.0025, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 30, "emb_size_brand": 6, "fc_size_1": 32}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.467013342954
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 100, "emb_size_category": 4, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 5e-05, "lr": 0.0025, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 30, "emb_size_brand": 12, "fc_size_1": 64}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.461628388395
+
+{"loss": "mse", "dropout_rate": 0.6, "emb_size_text_desc": 75, "emb_size_category": 12, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 5e-05, "lr": 0.003, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 6, "fc_size_1": 32}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.478136277762
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 55, "emb_size_category": 10, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.00015, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.467374876636
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 50, "emb_size_category": 12, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.00015, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 30, "emb_size_brand": 12, "fc_size_1": 64}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.490351743037
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0.00015, "lr": 0.003, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 25, "emb_size_brand": 12, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.462291394388
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 20, "emb_size_category": 12, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0.0001, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 8, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.465388351978
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 75, "emb_size_category": 10, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.0002, "lr": 0.001, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 25, "emb_size_brand": 12, "fc_size_1": 128}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.464452278287
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 5e-05, "lr": 0.003, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 12, "fc_size_1": 64}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.473775311236
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 100, "emb_size_category": 6, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.0001, "lr": 0.001, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 30, "emb_size_brand": 10, "fc_size_1": 128}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.471276285638
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 40, "emb_size_category": 12, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 5e-05, "lr": 0.001, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 25, "emb_size_brand": 12, "fc_size_1": 32}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.570863400076
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 20, "emb_size_category": 6, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.0002, "lr": 0.003, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 6, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.460641148164
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 20, "emb_size_category": 6, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.0001, "lr": 0.003, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 75, "emb_size_brand": 6, "fc_size_1": 32}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.460873733123
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 75, "emb_size_category": 4, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0, "lr": 0.002, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 30, "emb_size_brand": 12, "fc_size_1": 128}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.465760954726
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 35, "emb_size_category": 4, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0, "lr": 0.001, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 10, "fc_size_1": 32}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.46144045263
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 45, "emb_size_category": 4, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 0.00015, "lr": 0.001, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 25, "emb_size_brand": 12, "fc_size_1": 128}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.469130924954
+
+{"loss": "mse", "dropout_rate": 0.6, "emb_size_text_desc": 100, "emb_size_category": 6, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.0001, "lr": 0.002, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 30, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.480124184667
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 35, "emb_size_category": 12, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.00015, "lr": 0.002, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 75, "emb_size_brand": 12, "fc_size_1": 32}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.463634348001
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 45, "emb_size_category": 10, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 20, "emb_size_brand": 10, "fc_size_1": 64}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.479701627474
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 35, "emb_size_category": 12, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.0002, "lr": 0.001, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 10, "fc_size_1": 128}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.475417503573
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 50, "emb_size_category": 10, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 5e-05, "lr": 0.003, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 55, "emb_size_brand": 10, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.467677679118
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 55, "emb_size_category": 8, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 0.00015, "lr": 0.002, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 20, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.490569023098
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 55, "emb_size_category": 4, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 0.00015, "lr": 0.003, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 55, "emb_size_brand": 8, "fc_size_1": 32}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.458898171228
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 55, "emb_size_category": 6, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 5e-05, "lr": 0.001, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 55, "emb_size_brand": 8, "fc_size_1": 32}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.469512501621
+
+{"loss": "mse", "dropout_rate": 0.6, "emb_size_text_desc": 100, "emb_size_category": 4, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 5e-05, "lr": 0.003, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 12, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.474564908271
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 35, "emb_size_category": 12, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.00015, "lr": 0.001, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 6, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.469762885071
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 100, "emb_size_category": 4, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0.0002, "lr": 0.002, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 6, "fc_size_1": 64}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.469832730681
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 40, "emb_size_category": 6, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.00015, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 25, "emb_size_brand": 10, "fc_size_1": 128}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.471056082756
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 35, "emb_size_category": 4, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.00015, "lr": 0.0025, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 25, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.46426804593
+
+{"loss": "mse", "dropout_rate": 0.5, "emb_size_text_desc": 50, "emb_size_category": 10, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.0001, "lr": 0.001, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 55, "emb_size_brand": 8, "fc_size_1": 64}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.462460063622
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 35, "emb_size_category": 8, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 0.0001, "lr": 0.0025, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 15, "emb_size_brand": 8, "fc_size_1": 64}
+{"batch_size": 10000, "n_epochs": 15}
+rsmle:0.471274910634
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 50, "emb_size_category": 6, "n_filter": 25, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0.00015, "lr": 0.002, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 10, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.464689496411
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 55, "emb_size_category": 12, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.00015, "lr": 0.002, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 20, "emb_size_brand": 10, "fc_size_1": 64}
+{"batch_size": 5000, "n_epochs": 15}
+rsmle:0.466768433251
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 50, "emb_size_category": 10, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 5e-05, "lr": 0.002, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 20, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.482173143843
+
+{"loss": "mse", "dropout_rate": 0.4, "emb_size_text_desc": 55, "emb_size_category": 8, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0.00015, "lr": 0.003, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 75, "emb_size_brand": 12, "fc_size_1": 32}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.46678486126
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 55, "emb_size_category": 8, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 2, "r2_coeff": 5e-05, "lr": 0.0025, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 75, "emb_size_brand": 8, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.462775359888
+
+{"loss": "mse", "dropout_rate": 0.6, "emb_size_text_desc": 35, "emb_size_category": 12, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 5e-05, "lr": 0.002, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 25, "emb_size_brand": 12, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.484445298353
+
+{"loss": "mse", "dropout_rate": 0.6, "emb_size_text_desc": 50, "emb_size_category": 12, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 0.0002, "lr": 0.001, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 75, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.49843932639
+
+{"loss": "mse", "dropout_rate": 0.3, "emb_size_text_desc": 55, "emb_size_category": 6, "n_filter": 10, "metrics": ["mae"], "emb_size_condition": 6, "r2_coeff": 5e-05, "lr": 0.0025, "kernel_size": 4, "mask_zero": false, "emb_size_text_name": 45, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.463469617019
+
+{"loss": "mse", "dropout_rate": 0.7, "emb_size_text_desc": 20, "emb_size_category": 8, "n_filter": 20, "metrics": ["mae"], "emb_size_condition": 4, "r2_coeff": 0.00015, "lr": 0.0025, "kernel_size": 3, "mask_zero": false, "emb_size_text_name": 55, "emb_size_brand": 12, "fc_size_1": 32}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.479760236121
+
+{"loss": "mse", "dropout_rate": 0.6, "emb_size_text_desc": 100, "emb_size_category": 8, "n_filter": 15, "metrics": ["mae"], "emb_size_condition": 8, "r2_coeff": 0, "lr": 0.0025, "kernel_size": 5, "mask_zero": false, "emb_size_text_name": 20, "emb_size_brand": 8, "fc_size_1": 128}
+{"batch_size": 20000, "n_epochs": 15}
+rsmle:0.49558465203
+
+{"dropout_rate": 0.4, "metrics": ["mae"], "mask_zero": false, "fc_size_1": 32, "loss": "mse", "emb_size_text_desc": 55, "r2_reg_kernel": 0.00015, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 3}
+{"batch_size": 15000, "n_epochs": 20}
+{"dropout_rate": 0.4, "metrics": ["mae"], "r2_coeff": 0.00015, "mask_zero": false, "fc_size_1": 32, "loss": "mse", "emb_size_text_desc": 55, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 3}
+{"batch_size": 15000, "n_epochs": 20}
+rsmle:0.46644186881
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 70, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 40, "emb_size_brand": 8, "kernel_size": 3}
+{"batch_size": 15000, "n_epochs": 20}
+rsmle:0.46392484361
+
+{"dropout_rate": 0.2, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 70, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 40, "emb_size_brand": 8, "kernel_size": 3}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.465152192949
+
+{"dropout_rate": 0.1, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 70, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 40, "emb_size_brand": 8, "kernel_size": 4}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.471542559877
+
+{"dropout_rate": 0.1, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 70, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 40, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.476005377527
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 20, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 45, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.472356939126
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 55, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.467863144881
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 55, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.46469998657
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.465387245838
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 128, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.468614845978
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 128, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 4, "n_filter": 10, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.466817586974
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 128, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 15, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.463102911209
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 128, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 128, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.462937073751
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 128, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 25, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.463865053468
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 160, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.461682000689
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 512, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.4614737997
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 512, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.470807527124
+
+{"dropout_rate": 0.4, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 512, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.464765508834
+
+{"dropout_rate": 0.25, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 256, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.46243532787
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 256, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.462579416193
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 256, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.465890325222
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 256, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.464986049844
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 32, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.464779397658
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.461250454289
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.460116792771
+
+{"dropout_rate": 0.3, "metrics": ["mae"], "r2_coeff": 0.0001, "mask_zero": false, "fc_size_1": 64, "loss": "mse", "emb_size_text_desc": 45, "emb_size_category": 6, "n_filter": 20, "lr": 0.003, "emb_size_condition": 2, "emb_size_text_name": 55, "emb_size_brand": 8, "kernel_size": 5}
+{"batch_size": 15000, "n_epochs": 15}
+rsmle:0.462975748234
+
